@@ -1,7 +1,5 @@
 #  ethical hacking
 
-cs 352
-
 ####  contents
 
 fundamental concepts of hacking in a computer  
@@ -16,5 +14,3 @@ secure programming
 log analysis  
 
 ####  fundamental concepts of hacking in a computer
-
-
